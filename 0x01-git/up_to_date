@@ -1,0 +1,8 @@
+git add .
+git status
+git commit -m 'message'
+git push
+git checkout -b name _of_the_new_branch
+git checkout name_of_existing_branch
+git merge name_of_the_branch_you_wanted_to_merge
+git pull orign master
